@@ -1,0 +1,51 @@
+/* Override Material theme to be minimal */
+:root {
+  --md-primary-fg-color: #ffffff;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #000000;
+}
+
+.md-header {
+  background-color: white !important;
+  color: black !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #ddd;
+}
+
+.md-nav {
+  background-color: white !important;
+}
+
+.md-nav__title {
+  color: black !important;
+}
+
+.md-nav__link {
+  color: black !important;
+}
+
+.md-nav__link--active {
+  color: black !important;
+  font-weight: bold;
+}
+
+.md-content {
+  background-color: white !important;
+}
+
+body {
+  background-color: white !important;
+  color: black !important;
+  font-family: sans-serif !important;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  color: black !important;
+}
+
+/* Hide unnecessary elements */
+.md-header__button.md-logo,
+.md-footer,
+.md-source {
+  display: none !important;
+}

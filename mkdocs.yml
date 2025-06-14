@@ -1,0 +1,18 @@
+site_name: My Recipe Collection
+site_description: Personal recipe collection
+
+theme:
+  name: material
+  palette:
+    scheme: default
+  features:
+    - navigation.sections
+    - navigation.top
+
+extra_css:
+  - stylesheets/minimal.css
+
+nav:
+  - Home: index.md
+  - Recipes:
+    - test: recipes/test.md
