@@ -29,7 +29,7 @@ variaties (elke puntje hieronder is een variatie)
 4. al arrabiata: voeg samen met de tomaten naar smaak gedroogde peper toe. Welke maakt niet uit, gewoon welke je lekker vindt. Kan eventueel gerookt zijn.
 5. pasta saus amerikaans-italiaanse stijl: voeg oregano toe
 
-## trouble shoot
+## Trouble Shoot
 
 - saus is te waterig: langer inkoken
 - wijnsmaak is te aggresief: voeg snuifje suiker toe

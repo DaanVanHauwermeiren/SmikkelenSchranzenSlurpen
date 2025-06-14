@@ -12,6 +12,8 @@ nav:
   - Home: index.md
   - Italian:
     - tomato sauce: recipes/tomatosauce.md
+  - Vlaamsch:
+    - frikandon: recipes/frikandon.md
 
 markdown_extensions:
   - footnotes
