@@ -1,18 +1,17 @@
-site_name: My Recipe Collection
-site_description: Personal recipe collection
+site_name: Smikkelen Schranzen Slurpen
+site_description: Smikkelen Schranzen Slurpen
 
 theme:
-  name: material
-  palette:
-    scheme: default
+  name: terminal
+  palette: gruvbox_dark
   features:
     - navigation.sections
     - navigation.top
 
-extra_css:
-  - stylesheets/minimal.css
-
 nav:
   - Home: index.md
-  - Recipes:
-    - test: recipes/test.md
+  - Italian:
+    - tomato sauce: recipes/tomatosauce.md
+
+markdown_extensions:
+  - footnotes
