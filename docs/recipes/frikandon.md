@@ -8,6 +8,7 @@
 
 500g gemengd (varken/rund of varken/kalf) gehakt
 vulling:
+
 - 1 ui, fijngehakt
 - 1 wortel, fijngehakt
 - (eventueel een half handje erwtjes)
@@ -20,12 +21,8 @@ vulling:
 - peper + zout
 - evt. msg
 
-Origineel recept voegt ook dit nog toe in de vulling
-- +- 100 g bouillon
-Ik doe dit niet omdat ik het dan iets te nat vind.
+glaze: ongeveer gelijke hoeveelheden, pas aan naar eigen smaak
 
-glaze:
-ongeveer gelijke hoeveelheden, pas aan naar eigen smaak
 - ketchup
 - appelazijn
 - molasse of bruine suiker (of wit als je niks anders hebt)
@@ -43,3 +40,6 @@ ongeveer gelijke hoeveelheden, pas aan naar eigen smaak
 6. smeer de glazuur erover
 7. in de oven voor ongeveer 30 min tot invendige temperatuur 70-80 graden Celcius.
 
+## Troubleshoot
+
+origineel recept voegt ook dit nog toe in de vulling: `+- 100 g bouillon`. Ik doe dit niet omdat ik het dan iets te nat vind. Waarschijnlijk komt dit doordat het gehakt in BE/NL een andere samenstelling heeft ivm met USA waar dit recept vandaag komt.
