@@ -8,10 +8,7 @@ Sommige pagina's hier zijn in het Engels, andere niet. Veel hangt af van het bro
 
 ## Recipe Categories
 
-Recipes are grouped by cuisine in the navigation:
-
-- **Italian** - [tomato sauce](recipes/tomatosauce.md), a base sauce for a dozen variations.
-- **Vlaamsch** - [frikandon](recipes/frikandon.md), meatloaf / gehaktbrood.
+Recipes are grouped by cuisine in the navigation.
 
 More get added whenever I cook something worth writing down.
 
