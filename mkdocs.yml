@@ -13,6 +13,7 @@ nav:
   - Home: index.md
   - Italian:
     - tomato sauce: recipes/tomatosauce.md
+    - puttanesca: recipes/puttanesca.md
   - Vlaamsch:
     - frikandon: recipes/frikandon.md
 
