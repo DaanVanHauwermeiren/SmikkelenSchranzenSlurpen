@@ -1,5 +1,6 @@
 site_name: Smikkelen Schranzen Slurpen
 site_description: Smikkelen Schranzen Slurpen
+site_url: https://daanvanhauwermeiren.github.io/SmikkelenSchranzenSlurpen/
 
 theme:
   name: terminal
