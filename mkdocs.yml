@@ -15,5 +15,8 @@ nav:
   - Vlaamsch:
     - frikandon: recipes/frikandon.md
 
+exclude_docs: |
+  recipes/template.md
+
 markdown_extensions:
   - footnotes
