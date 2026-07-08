@@ -1,8 +1,9 @@
 [project]
 name = "smikkelenschranzenslurpen"
 version = "0.1.0"
-description = "Add your description here"
+description = "Personal recipe site - a static MkDocs cookbook."
 readme = "README.md"
+license = "GPL-3.0-only"
 requires-python = ">=3.11"
 dependencies = [
     "mkdocs>=1.6.1",

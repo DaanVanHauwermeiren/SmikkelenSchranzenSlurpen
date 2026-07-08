@@ -1,5 +1,6 @@
 site_name: Smikkelen Schranzen Slurpen
 site_description: Smikkelen Schranzen Slurpen
+site_url: https://daanvanhauwermeiren.github.io/SmikkelenSchranzenSlurpen/
 
 theme:
   name: terminal
@@ -11,9 +12,20 @@ theme:
 nav:
   - Home: index.md
   - Italian:
+    - pasta in general: recipes/pastaingeneral.md
     - tomato sauce: recipes/tomatosauce.md
+    - puttanesca: recipes/puttanesca.md
+    - carbonara: recipes/carbonara.md
+    - pasta met spinazie: recipes/pasta-spinazie.md
+    - pasta al tonno: recipes/pasta-al-tonno.md
+    - pasta tomaten met sjalot: recipes/pasta-sjalot.md
+    - pasta met courgette en bonen: recipes/pasta-courgette-bonen.md
+    - pasta met venkel en olijven: recipes/pasta-venkel-olijven.md
   - Vlaamsch:
     - frikandon: recipes/frikandon.md
+
+exclude_docs: |
+  recipes/template.md
 
 markdown_extensions:
   - footnotes
