@@ -23,6 +23,7 @@ Basis tomatensaus voor -tig verschillende variaties (zie onderaan).
 ## Variations
 
 variaties (elke puntje hieronder is een variatie)
+
 1. net voor de tomaten toevoegen: blus met 10-15cl wijn (kleur maakt niet uit), kan ook bv Shaoxing wine zijn.
 2. stoof eerst 1 ui aan (voor nummer 1 hierboven)
 3. Bak eerst iets van spek/gehakt (voor nummer 1 hierboven), goede smaakcombo hierbij is gemalen venkelzaad. 
