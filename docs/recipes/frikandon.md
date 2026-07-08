@@ -36,10 +36,10 @@ glaze: ongeveer gelijke hoeveelheden, pas aan naar eigen smaak
 2. andere ingredienten voor de vulling mengen in een kom
 3. voeg de gestoofde ajuin en wortel toe.
 4. voeg gehakt toe en meng tot volledig gedispergeerd, niet meer. Niet te veel mengen of de eiwitten in het gehakt gaan cross-linken (beetje zoals gluten in brood).
-5. het gehaktbrood vormen (denk ijstaartstronk-vorm) en op een ingevette bakplaat leggen (in het ideale geval met zo een siliconen mat), zorg dat het niet te dik is (ik doe meestal maximale hoogte +- 6cm ~= breedte van een gsm ~= grootte van de pink), anders is er te groot verschil in baktijd tussen rand en centrum.
+5. het gehaktbrood vormen (denk ijstaartstronk-vorm) en op een ingevette bakplaat leggen (in het ideale geval met zo een siliconen mat), zorg dat het niet te dik is (ik doe meestal maximale hoogte +- 6cm ~= breedte van een gsm ~= grootte van de pink), anders is er een te groot verschil in baktijd tussen rand en centrum.
 6. smeer de glazuur erover
 7. in de oven voor ongeveer 30 min tot invendige temperatuur 70-80 graden Celcius.
 
-## Troubleshoot
+## Trouble Shoot
 
-origineel recept voegt ook dit nog toe in de vulling: `+- 100 g bouillon`. Ik doe dit niet omdat ik het dan iets te nat vind. Waarschijnlijk komt dit doordat het gehakt in BE/NL een andere samenstelling heeft ivm met USA waar dit recept vandaag komt.
+origineel recept voegt ook dit nog toe in de vulling: `+- 100 g bouillon`. Ik doe dit niet omdat ik het dan iets te nat vind. Waarschijnlijk komt dit doordat het gehakt in BE een andere samenstelling heeft ivm met USA waar dit recept vandaag komt.

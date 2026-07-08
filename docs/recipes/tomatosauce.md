@@ -18,7 +18,7 @@ Basis tomatensaus voor -tig verschillende variaties (zie onderaan).
 1. fruit de look aan in olie (goedkope olijfolie is ok) op middelhoog vuur in een pan tot deze licht begint te verkleuren. Qua kleur: maximum cognac, niet bruiner.
 2. verlaag het vuur en voeg de tomatenconcentraat toe. roer en laat 1-2 min lichtjes aanstoven. Dit mag absoluut niet aanbranden.
 3. voeg de tomaten in blik toe, spoel blik met +-1/4 blikvolume aan water en voeg toe.
-5. laat 10-15 minuten onbedekt pruttelen op laag vuur.
+4. laat 10-15 minuten onbedekt pruttelen op laag vuur.
 
 ## Variations
 

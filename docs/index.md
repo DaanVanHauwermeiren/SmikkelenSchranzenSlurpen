@@ -8,8 +8,16 @@ Sommige pagina's hier zijn in het Engels, andere niet. Veel hangt af van het bro
 
 ## Recipe Categories
 
-placeholder
+Recipes are grouped by cuisine in the navigation:
+
+- **Italian** - [tomato sauce](recipes/tomatosauce.md), a base sauce for a dozen variations.
+- **Vlaamsch** - [frikandon](recipes/frikandon.md), meatloaf / gehaktbrood.
+
+More get added whenever I cook something worth writing down.
 
 ## About
 
-placeholder
+A personal cookbook, built with [MkDocs](https://www.mkdocs.org/) and the
+[terminal](https://github.com/ntno/mkdocs-terminal) theme. Sources are linked
+where I remember them. Found a mistake or have a better version? The source
+lives [on GitHub](https://github.com/DaanVanHauwermeiren/SmikkelenSchranzenSlurpen).
