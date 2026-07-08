@@ -4,7 +4,7 @@ Adapted from: [ethanchlebowski.com](https://www.ethanchlebowski.com/cooking-tech
 
 **Prep Time:** 15 minutes  
 **Cook Time:** 15 minutes  
-**Servings:** 2 personen
+**Servings:** 2 persons
 
 ## Ingredients
 
