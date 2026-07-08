@@ -2,7 +2,7 @@
 
 Adapted from: [ethanchlebowski.com](https://www.ethanchlebowski.com/cooking-techniques-recipes/fiery-carbonara)
 
-**Prep Time:** 15 minutes
+**Prep Time:** 15 minutes  
 **Cook Time:** 15 minutes  
 **Servings:** 2 personen
 
