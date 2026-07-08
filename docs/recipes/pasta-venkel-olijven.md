@@ -8,7 +8,7 @@ Bron: pasta postcards
 
 ## Ingredients
 
-- 250g spaghetti
+- enough pasta for 2 persons, see [pasta in general](pastaingeneral.md) for my thoughts
 - 1 venkel, in fijne ringen (bewaar de fijne groene blaadjes voor garnering)
 - 1 handvol groene/zwarte olijven (ontpit, grof gehakt)
 - 3-4 ansjovissen in olie

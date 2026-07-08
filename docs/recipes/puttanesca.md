@@ -8,7 +8,7 @@ Bron: [giallozafferano.it](https://ricette.giallozafferano.it/Spaghetti-alla-put
 
 ## Ingredients
 
-- 250g spaghetti
+- enough pasta for 2 persons, see [pasta in general](pastaingeneral.md) for my thoughts
 - 1 blik polpa di pomodori of passata (400g)
 - 25g ansjovis op olie
 - 10g kappertjes

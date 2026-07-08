@@ -8,7 +8,7 @@ Bron: pasta grannies
 
 ## Ingredients
 
-- 250g spaghetti
+- enough pasta for 2 persons, see [pasta in general](pastaingeneral.md) for my thoughts
 - 1 blik polpa di pomodori of passata (400g)
 - 6 grote sjalotten, in julienne of brunoise
 - 100g gehakt of italiaanse worst

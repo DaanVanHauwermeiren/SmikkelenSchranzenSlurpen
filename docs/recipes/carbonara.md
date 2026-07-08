@@ -8,7 +8,7 @@ Adapted from: [ethanchlebowski.com](https://www.ethanchlebowski.com/cooking-tech
 
 ## Ingredients
 
-- 250g dried pasta
+- enough pasta for 2 persons, see [pasta in general](pastaingeneral.md) for my thoughts
 - 200g thick cut (smoked) bacon / guanciale
 - 4 egg yolks
 - 100g Parmigiano Reggiano, grated + a little extra for dressing at the end

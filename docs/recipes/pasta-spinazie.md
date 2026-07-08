@@ -6,7 +6,7 @@
 
 ## Ingredients
 
-- 250g pasta (fusilli is een top keuze)
+- enough pasta for 2 persons (fusilli is a top choice), see [pasta in general](pastaingeneral.md) for my thoughts
 - 150g spinazie (vers kan, maar diepvries is veel handiger)
 - 100g geraspte kaas: mix van Parmigiano Reggiano en pecorino, + beetje extra voor serveren
 - 10g maismeel

@@ -8,7 +8,7 @@ Bron: revealed to me in a dream
 
 ## Ingredients
 
-- 250g spaghetti
+- enough pasta for 2 persons, see [pasta in general](pastaingeneral.md) for my thoughts
 - 2 kleine courgetten, in halve cirkels, +-1 vinger dik
 - 1 blik bonen (bv cannellini, lima, oogbonen) (200g)
 - dille (gevriesdroogd is prima), andere verse tuinkruiden ook goed

@@ -8,7 +8,7 @@ Bron: pasta grannies
 
 ## Ingredients
 
-- 250g spaghetti
+- enough pasta for 2 persons, see [pasta in general](pastaingeneral.md) for my thoughts
 - 1 blik polpa di pomodori of passata (400g)
 - blik tonijn: 100-150g uitgelekt, geprakt indien fijne textuur gewenst (op water of olie maakt niet uit)
 - 1 ui, in halve ringen
