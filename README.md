@@ -35,3 +35,7 @@ GitHub Pages.
 ## License
 
 See [LICENSE](LICENSE).
+
+## Inspired by
+
+(The best website, ever)[https://thebestmotherfucking.website/]
