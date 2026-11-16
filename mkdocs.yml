@@ -23,6 +23,8 @@ nav:
     - pasta met venkel en olijven: recipes/pasta-venkel-olijven.md
   - Vlaamsch:
     - frikandon: recipes/frikandon.md
+  - Tex-Mex:
+    - chili con carne: recipes/chili.md
 
 exclude_docs: |
   recipes/template.md
